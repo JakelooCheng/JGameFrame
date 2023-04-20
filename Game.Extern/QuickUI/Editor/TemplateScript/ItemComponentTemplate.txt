@@ -1,0 +1,24 @@
+using Funny.GameFramework.Client.UI.Core;
+using UnityEngine.UI;
+using Funny.GameEngine.U3D.Externsion;
+
+namespace GameApp.UI.{0}
+{{
+    [AssetPath("{1}")]
+    public partial class {2} : UIItem
+    {{
+        #region (禁止编辑)自动生成变量
+        // HashCode:0
+        #endregion (禁止编辑)自动生成变量
+
+        private void InitComponents()
+        {{
+            QuickUIMono quickUI = RectTransform.GetComponent<QuickUIMono>();
+            /// 在这里初始化组件
+
+            #region (禁止编辑)自动生成绑定
+
+            #endregion (禁止编辑)自动生成绑定
+        }}
+    }}
+}}

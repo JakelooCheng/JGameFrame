@@ -1,0 +1,22 @@
+using UnityEngine.UI;
+
+namespace GameApp.UI.{0}
+{{
+    public partial class {1}
+    {{
+        protected override void OnCreate()
+        {{
+            InitComponents();
+        }}
+
+        protected override void OnShow()
+        {{
+
+        }}
+
+        protected override void OnHide()
+        {{
+
+        }}
+    }}
+}}
